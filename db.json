@@ -1,12 +1,10 @@
 {
-
     "area":[
         "新宿駅周辺",
         "渋谷駅周辺"
     ],
-
-    "hairstyle":
-    [
+    
+    "hairstyle":[
         "VeryShort",
         "Bob",
         "Long" 
